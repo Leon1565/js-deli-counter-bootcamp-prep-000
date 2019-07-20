@@ -8,7 +8,7 @@ function takeANumber(deliLine, name){
 
 function nowServing(x){
   if(x.length === 0){
-    
+    return 'There is no one waiting to be served';
   }
   
 }
