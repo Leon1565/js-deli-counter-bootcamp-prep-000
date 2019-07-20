@@ -6,6 +6,10 @@ function takeANumber(deliLine, name){
   in line`;
 }
 
+function currentServing(){
+  
+}
+
 function nowServing(x){
   if(x.length === 0){
     return 'There is no one to serve';
