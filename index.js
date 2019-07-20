@@ -11,6 +11,7 @@ function nowServing(x){
     return 'There is no one to serve';
   }
   else{
+    var name = x[0];
     
   }
   
