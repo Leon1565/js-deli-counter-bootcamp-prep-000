@@ -9,7 +9,7 @@ function takeANumber(deliLine, name){
 function currentLine(newLine){
   var line = [];
   if(newLine.length === 0){
-    
+    return 'The line is currently empty';
   }
 }
 
