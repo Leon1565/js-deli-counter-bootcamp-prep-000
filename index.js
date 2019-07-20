@@ -13,7 +13,7 @@ function currentLine(newLine){
   }
   else{
     for(var i = 0; i < newLine.length; i++){
-      line += (i + i) + newLine[i]
+      line += (i + i) + newLine[i];
     }
   }
 }
