@@ -7,6 +7,7 @@ function takeANumber(deliLine, name){
 }
 
 function currentLine(newLine){
+  var line = [];
   
 }
 
