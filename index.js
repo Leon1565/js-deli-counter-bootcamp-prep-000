@@ -1,1 +1,2 @@
-var deliLine = 
+var deliLine = [];
+
