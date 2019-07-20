@@ -6,7 +6,7 @@ function takeANumber(deliLine, name){
   in line`;
 }
 
-function currentServing(){
+function currentLine(){
   
 }
 
