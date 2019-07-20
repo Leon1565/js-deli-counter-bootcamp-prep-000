@@ -15,7 +15,7 @@ function currentLine(newLine){
     for(var i = 0; i < newLine.length; i++){
       line += (i + i) + newLine[i];
     }
-    line = line.slice(0)
+    line = line.slice(0, line.length)
   }
 }
 
