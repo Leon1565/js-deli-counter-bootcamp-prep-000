@@ -13,7 +13,7 @@ function nowServing(x){
   else{
     var name = x[0];
     x.splice(0, 1);
-    return `Currently serving number 
+    return `Currently serving ${name}
   }
   
 }
