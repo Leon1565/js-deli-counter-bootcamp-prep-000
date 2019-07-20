@@ -1,5 +1,5 @@
 var deliLine = [];
 
 function takeANumber(deliLine, name){
-  deliLine.push()
+  deliLine.push(name)
 }
