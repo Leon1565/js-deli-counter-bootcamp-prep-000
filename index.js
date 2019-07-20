@@ -1,3 +1,3 @@
 var deliLine = [];
 
-function takeANumber()
+function takeANumber(deliLine, name)
