@@ -7,6 +7,8 @@ function takeANumber(deliLine, name){
 }
 
 function nowServing(x){
-  var line = [];
+  if(x.length === 0){
+    
+  }
   
 }
