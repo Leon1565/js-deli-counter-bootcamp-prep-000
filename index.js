@@ -16,6 +16,7 @@ function currentLine(newLine){
       line += (i + i) + newLine[i];
     }
     line = line.slice(0, line.length-2)
+    return 
   }
 }
 
