@@ -12,7 +12,7 @@ function currentLine(newLine){
     return 'The line is currently empty';
   }
   else{
-    
+    for()
   }
 }
 
