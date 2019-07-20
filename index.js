@@ -8,7 +8,7 @@ function takeANumber(deliLine, name){
 
 function currentLine(newLine){
   var line = [];
-  
+  if(newLine.length )
 }
 
 function nowServing(x){
